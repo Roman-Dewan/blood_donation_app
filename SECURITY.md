@@ -72,4 +72,4 @@ By using the "Blood Donation App," users acknowledge that they have read, unders
 
 If you encounterd with some technical issue or any kind of suggession or support or special publicity :
 
-feel free to contact us (via mail) softwave.org@gmail.com
+feel free to contact us (via mail) info.softwaveteam@gmail.com
